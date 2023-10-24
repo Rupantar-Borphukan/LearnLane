@@ -23,13 +23,13 @@ To run **EduWeb** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/eduweb.git
+sudo git clone https://github.com/Rupantar-Borphukan/LearnLane.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/eduweb.git
+git clone https://github.com/Rupantar-Borphukan/LearnLane.git
 ```
 
 ### Contact
