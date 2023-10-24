@@ -1,13 +1,4 @@
-<div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/eduweb)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/eduweb?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/eduweb?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/x26bQPxcFX4?style=social)](https://youtu.be/x26bQPxcFX4)
 
-  <br />
-  <br />
 
   <h2 align="center">eduweb - Education Website</h2>
 
@@ -18,10 +9,6 @@
 </div>
 
 <br />
-
-### Demo Screeshots
-
-![EduWeb Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -47,8 +34,4 @@ git clone https://github.com/codewithsadee/eduweb.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+If you want to contact with me you can reach me at [Twitter](https://twitter.com/RupantarB).
